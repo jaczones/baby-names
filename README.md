@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and created with the guidance of https://egghead.io/lessons/react-improve-developer-experience-for-accessing-context-with-a-custom-react-hook.
 
 ## Available Scripts
 
